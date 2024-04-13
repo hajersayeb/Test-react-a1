@@ -1,0 +1,14 @@
+.img-fluid {
+    width: 50%;
+    display: block; 
+    margin: auto; 
+}
+
+.Acc {
+    margin: 20px 0;
+    color: #6944cf;
+    font-size: 30px; 
+    font-weight: bold; 
+    text-align: center; 
+
+}
